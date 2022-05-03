@@ -3,7 +3,7 @@ This is an assignment from techUp Skill training.
 ## Questions
 ### Q1. By Using HTML and CSS try to replicate as possible the following User Interface(UI)
 
-
+![image](https://github.com/Abou-Shadadi/tech-up-skill-assignment/blob/5f7c924de91903b4a5a316b9496d9d3d7102a16e/img/sample.jpeg)
 
 
 ### Q2. As array of product to be bought given names of product and price in dollars below try answer all questions Use your favorite programming.
