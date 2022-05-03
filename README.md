@@ -19,6 +19,7 @@ This is an assignment from techUp Skill training.
  ], 
 ```
 #### 1 . Filter and show the product that will be bought when you don't have much money I mean Cheap one
+```js
 // let's get the produnct with min value
   min = Math.min.apply(null, item.map(function(itemValue) {
     return itemValue.price;
@@ -30,6 +31,7 @@ This is an assignment from techUp Skill training.
 }
 );
 console.log(newObj);
+```
 #### 2 . Filter and show the product that will be expensive in the array
 ```js
 // let's get the min value
